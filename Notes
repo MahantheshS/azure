@@ -7,5 +7,43 @@ git branch -M main
 git remote add origin https://github.com/MahantheshS/azure.git  
 git push -u origin main  
 
-1) What is cloud?  
--- Cloud
+----------------------------------------------------------------------------------------------------------------------------------
+
+1) What is the Cloud?  
+    - The cloud refers to computing services like storage, servers, databases, software, etc which are delivered over the internet instead of on local computer.
+
+    In the cloud era, if server is needed:
+
+    -It can be created in the cloud within minutes.
+    -Use it as you wish.
+    -Pay for what is used.
+    -Shut it down when not needed.
+    -Automatically maintained, patched, secured and monitored.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+2) Characteristics of the Cloud
+
+a) On-demand self service
+    - You can provision(get) computing resources whenever you need them, automatically, without needing human help from the cloud provider.
+    - For example, if virtual machine is needed just login to any cloud providers(AWS, Azure or GCP) and within few clicks, it will be allocated. 
+
+b) Broad network access
+   - Cloud services are accesible from anywhere on any devices using network.
+
+c) Resource pooling
+   - Multi tenancy - One physical server might serve multiple customers.
+   - Compute, storage and networking is pooled and shared across multiple users.
+   - Resources are allocated and released dynamically.
+
+d) Rapid elasticity
+   - Resources can be scaled up or down on demand - to match workload needs.
+   - Ensures that application or service always has the right amount of resources - not too little(Causes performance issues) and not too much(Costs more money than needed).
+
+e) Measured service
+  - Pay for only used resources.
+  - Server time /DB storage / Function calls etc.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+   
