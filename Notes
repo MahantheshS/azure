@@ -48,10 +48,18 @@ e) Measured service
 
 3) CapEx(Capital Expenditure) and OpEx(Operational Expenditure)
 
-   -CapEx involves upfront investments in physical infrastructure or assets. For example, buying servers, storage devices etc.
-   -OpEx - Pay-as-you-go model for consuming servives.Virtual machines (pay per minute/hour).
+   - CapEx involves upfront investments in physical infrastructure or assets. For example, buying servers, storage devices etc.
+   - OpEx - Pay-as-you-go model for consuming servives. Virtual machines (pay per minute / hour).
 
-   -------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
+
+4) Types of cloud services
+
+   a) IaaS (Infrastructure as a Service)
+      - The cloud provides the underlying patform(Compute, Networking and Storage).
+      - Client is responsible for the rest.
+      - Ex: The cloud provides host machine, networking and disks and then client creates virtual machine, installs software on it, patches it and maintains it etc.
+
 
 
 
